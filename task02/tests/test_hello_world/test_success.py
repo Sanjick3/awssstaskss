@@ -1,3 +1,4 @@
+import json
 from tests.test_hello_world import HelloWorldLambdaTestCase
 
 class TestHelloWorldLambda(HelloWorldLambdaTestCase):
