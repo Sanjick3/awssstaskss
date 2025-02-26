@@ -1,5 +1,5 @@
 {
-"version": "1.0",
+  "version": "1.0",
   "name": "hello_world",
   "func_name": "handler.lambda_handler",
   "resource_type": "lambda",
